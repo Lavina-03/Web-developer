@@ -1,0 +1,37 @@
+--Download File by Pasting URL
+This project demonstrates a simple method to download a file by pasting a URL using HTML and JavaScript.
+
+--Prerequisites
+Before running the application, ensure you have the following:
+
+A modern web browser that supports HTML5 and JavaScript
+
+--Getting Started
+To get started with this project, follow the steps below:
+
+Clone the repository to your local machine.
+
+Open the project folder in your preferred code editor.
+
+Open the index.html file in a web browser.
+
+--Usage
+Open the application in your web browser.
+
+In the provided input field, paste the URL of the file you want to download.
+
+Click the "Download" button.
+
+If the file is accessible and the URL is valid, the file will be downloaded to your device.
+
+--Troubleshooting
+If you encounter any issues or errors while using the application, please follow these steps:
+
+Ensure you have a stable internet connection.
+
+Double-check the URL you pasted for the file download.
+
+Check the browser console for any error messages.
+
+--Acknowledgements
+This project was inspired by the need for a simple method to download files by pasting a URL.
